@@ -7,10 +7,10 @@ I'm a Network Engineer, AI Enthusiast and a Geek.
 Discover how I do my projects and save your time by learning from my materials!:
 
 - [AUTOMATE TASKS WITH PYTHON](https://github.com/engkufizz/AutomateTools)
-- [TRAIN GPT WITH LARGE TEXT DATA]
-- [MY SECOND BRAIN WITH AI]
-- [MY OWN GPT @ minGPT (OFFLINE)]
-- [TALK TO THE PRIVATE DOCUMENTS LOCALLY]
+- TRAIN GPT WITH LARGE TEXT DATA
+- MY SECOND BRAIN WITH AI
+- MY OWN GPT @ minGPT (OFFLINE)
+- TALK TO THE PRIVATE DOCUMENTS LOCALLY
 - [FINE-TUNING LLM USING QLoRA (CUSTOM DATASET)](https://huggingface.co/engkufizz/falcon-7b-qlora-datacom)
 - [FINE-TUNING LLAMA 2 WITH CUSTOM DATASET](https://huggingface.co/engkufizz/llama-2-7b-datacom)
 - [CREATE a CUSTOM DATASET for SPECIFIC CASES](https://huggingface.co/datasets/engkufizz/router-switch-instruct)
@@ -25,8 +25,8 @@ Discover how I do my projects and save your time by learning from my materials!:
 - [LEARN TO SETUP SERVER USING OPENSSH](https://drive.google.com/drive/folders/1-nEKJ4YDRYgsRJr55LL7GPiWVp9UmMmv)
 - [VOICE RECOGNITION USING PYTHON](https://drive.google.com/drive/folders/1Y7jAoA4uc_nNya6UE7OLkZHtJQLYxmwa)
 - [FACE RECOGNITION USING OPENCV](https://drive.google.com/drive/folders/11J_z5UdVVu9R4eZDPRHyAu2pPS_N0LER)
-- [CREATE A WEBSITE USING CLOUD]
-- [CYBER SECURITY MATERIALS] 
+- CREATE A WEBSITE USING CLOUD
+- CYBER SECURITY MATERIALS 
 
 ## 📫 Get in Touch 
 
