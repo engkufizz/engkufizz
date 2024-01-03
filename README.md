@@ -1,6 +1,6 @@
 # Hello, I'm [Tengku](https://github.com/engkufizz) 👋
 
-I'm a Network Engineer, AI Enthusiast and a Geek. 
+I'm a Network Engineer, a AI Enthusiast and also a Geek. 
 
 ### 🚀 Personal Projects 
 
