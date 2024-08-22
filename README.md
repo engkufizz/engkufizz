@@ -6,7 +6,7 @@ I'm a Network Engineer, a AI Enthusiast and also a Geek.
 
 Discover how I do my projects and save your time by learning from my materials!:
 
-- [CONFIGURING MY OWN HOME SERVER](https://drive.google.com/drive/folders/15cKAEq6_Mb_b7sO-bf26SguCp4saxLc8?usp=drive_link)
+- [CONFIGURE MY OWN HOME SERVER (PART 2)](https://drive.google.com/drive/folders/15cKAEq6_Mb_b7sO-bf26SguCp4saxLc8?usp=drive_link)
 - [BASIC DATACOM SIMULATION FOR ROUTER & SWITCH](https://drive.google.com/drive/folders/1-3IKt8alxLHquHUp7q304o2K58-X8Cbr)
 - [LEVERAGE TASKS WITH AI](https://drive.google.com/drive/folders/1GdOpu-EyyUGgBQ_H1LkgWEzYgVCVOkrU)
 - [AUTOMATE TASKS WITH PYTHON](https://github.com/engkufizz/AutomateTools)
@@ -26,11 +26,12 @@ Discover how I do my projects and save your time by learning from my materials!:
 - [SMART QUEUING SYSTEM USING TELEGRAM BOT](https://drive.google.com/drive/folders/13yd-iQzVmD2jt2uSqGJRCFo-1AU0OEcd?usp=drive_link)
 - [ANDROID APP DEVELOPMENT USING ANDROID STUDIO](https://drive.google.com/drive/folders/1oTcgvjhM6qmQjeaOBQLzeOUkvkQM0enK?usp=drive_link)
 - [CREATE A WEBSITE USING AWS CLOUD](https://drive.google.com/drive/folders/1aOQcGy_k5FLtlhFOgK9CocrAlYjYUS8o?usp=drive_link)
+- [Create a landing page using Firebase](https://drive.google.com/drive/folders/14OYKs0n65SRD3FQjamnLfKsuwKmEE3bD?usp=drive_link)
 - [RASPBERRY PI & MINI KEYBOARD CONTROLLER](https://drive.google.com/drive/folders/1tfIRv6TED6S5_xXM2nNGd1MJIfA-mgKP)
-- [PYTHON SOCKET SERVER USING CLOUD](https://drive.google.com/drive/folders/1zaoq3BXJtVLyNuqo5-I7BGBV885NrMzq?usp=drive_link)
+- [PYTHON SOCKET SERVER USING a CLOUD](https://drive.google.com/drive/folders/1zaoq3BXJtVLyNuqo5-I7BGBV885NrMzq?usp=drive_link)
 - [LEARN SQL COMMANDS](https://drive.google.com/drive/folders/1sKK17FObu5wYu0drVlQRkjtQXFBuzRL8?usp=drive_link)
 - [EXCEL USING FORMULA, VLOOKUP AND PIVOT TABLE](https://drive.google.com/drive/folders/1-v1FvdDOe1LZGcBlBMs8CRF5CwqbN7pr)
-- [LEARN TO SETUP SERVER USING OPENSSH](https://drive.google.com/drive/folders/10FS4L6GaVnto9EroNvsu9d5wZGEZV4SR?usp=drive_link)
+- [LEARN TO SET UP A SERVER (PART 1)](https://drive.google.com/drive/folders/10FS4L6GaVnto9EroNvsu9d5wZGEZV4SR?usp=drive_link)
 - [CYBER SECURITY MATERIALS](https://drive.google.com/drive/folders/1javrGyLZLAUuB1VmVLdVwmMLeRW83Rrf)
 
 ## 📫 Get in Touch 
