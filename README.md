@@ -4,7 +4,6 @@ I'm a Network Engineer, a AI Enthusiast and also a Geek.
 
 <img align="right" alt="GIF" src="https://media.licdn.com/dms/image/v2/D4D12AQFYfL4JF8-wQg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1658180724475?e=2147483647&v=beta&t=2HQkLpOAg4h-Kz12ITQmQqPYkB5VEpl3qXpdD-a_LEk" />
 
-
 ### 🚀 Personal Projects 
 
 Discover how I do my projects and save your time by learning from my materials!:
