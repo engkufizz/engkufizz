@@ -1,12 +1,10 @@
 # Hello, I'm [Tengku](https://github.com/engkufizz) 👋
 
-I'm a Network Engineer, a AI Enthusiast and also a Geek. 
+Discover how I do my projects and save your time by learning from my materials ! 
 
 <img align="right" alt="GIF" src="https://media.licdn.com/dms/image/v2/D4D12AQFYfL4JF8-wQg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1658180724475?e=2147483647&v=beta&t=2HQkLpOAg4h-Kz12ITQmQqPYkB5VEpl3qXpdD-a_LEk" />
 
 ### 🚀 Personal Projects 
-
-Discover how I do my projects and save your time by learning from my materials!:
 
 - [CONFIGURE MY OWN HOME SERVER (PART 2)](https://drive.google.com/drive/folders/15cKAEq6_Mb_b7sO-bf26SguCp4saxLc8?usp=drive_link)
 - [BASIC DATACOM SIMULATION FOR ROUTER & SWITCH](https://drive.google.com/drive/folders/1-3IKt8alxLHquHUp7q304o2K58-X8Cbr)
