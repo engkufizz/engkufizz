@@ -39,16 +39,20 @@ Discover how I do my projects and save your time by learning from my materials!:
 ## 📫 Get in Touch 
 
 <a href="https://twitter.com/engkufizz">
-  <img align="left" alt="Tengku's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="filter: invert(1);" />
+  <svg align="left" width="24px" height="24px" viewBox="0 0 24 24" fill="white" xmlns="http://www.w3.org/2000/svg">
+    <path d="M23.4 4.8a9.1 9.1 0 0 1-2.6.7 4.5 4.5 0 0 0 2-2.4c-.9.5-2 .9-3.1 1.1a4.5 4.5 0 0 0-7.7 4c-3.7-.2-7-1.9-9.2-4.5A4.4 4.4 0 0 0 3 7.3a4.5 4.5 0 0 1-2-.6v.1c0 2.2 1.6 4.1 3.7 4.5a4.6 4.6 0 0 1-2 .1c.6 1.9 2.3 3.2 4.3 3.2a9 9 0 0 1-5.6 2c-.4 0-.8 0-1.2-.1a12.8 12.8 0 0 0 7 2c8.4 0 13-7 13-13v-.6c.9-.7 1.7-1.5 2.3-2.4z"/>
+  </svg>
 </a>
 <a href="https://discord.com/users/engkufizz">
-  <img align="left" alt="Tengku's Discord" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" style="filter: invert(1);" />
+  <svg align="left" width="24px" height="24px" viewBox="0 0 24 24" fill="white" xmlns="http://www.w3.org/2000/svg">
+    <path d="M20.3 4.6A19.9 19.9 0 0 0 15 3a14.9 14.9 0 0 0-1.3 2.7 18.3 18.3 0 0 0-5.4 0A14.8 14.8 0 0 0 7 3a19.9 19.9 0 0 0-5.3 1.6 20 20 0 0 0-2.5 16.6 19.9 19.9 0 0 0 5.8 2.9 15.7 15.7 0 0 0 1.4-2.5 13.8 13.8 0 0 1-2.2-1.1c.2-.2.5-.5.7-.7 1.5 1 3.3 1.5 5.2 1.5s3.7-.5 5.2-1.5c.2.2.5.5.7.7a13.8 13.8 0 0 1-2.2 1.1 15.7 15.7 0 0 0 1.4 2.5 19.9 19.9 0 0 0 5.8-2.9A20 20 0 0 0 20.3 4.6zM8 14.8a1.8 1.8 0 1 1 0-3.5 1.8 1.8 0 0 1 0 3.5zm8 0a1.8 1.8 0 1 1 0-3.5 1.8 1.8 0 0 1 0 3.5z"/>
+  </svg>
 </a>
 <a href="https://www.linkedin.com/in/engkufizz/">
-  <img align="left" alt="Tengku's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="filter: invert(1);" />
+  <svg align="left" width="24px" height="24px" viewBox="0 0 24 24" fill="white" xmlns="http://www.w3.org/2000/svg">
+    <path d="M21.3 2H2.7A2.7 2.7 0 0 0 0 4.7v14.6A2.7 2.7 0 0 0 2.7 22h18.6a2.7 2.7 0 0 0 2.7-2.7V4.7A2.7 2.7 0 0 0 21.3 2zM7.2 18H4V9h3.2v9zm-1.6-10.2a1.8 1.8 0 1 1 0-3.6 1.8 1.8 0 0 1 0 3.6zM20 18h-3.2v-4.7c0-1.1 0-2.3-1.4-2.3-1.4 0-1.7 1.1-1.7 2.2V18H10V9h3v1.2h.1c.4-.8 1.3-1.6 2.6-1.6 2.7 0 3.2 1.8 3.2 4.1V18z"/>
+  </svg>
 </a>
-
-
 
 - Twitter: https://twitter.com/engkufizz
 - Discord: engkufizz
