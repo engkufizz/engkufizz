@@ -22,7 +22,7 @@ Discover how I do my projects and save your time by learning from my materials!:
 - [QUANTIZE the LLAMA to GGML](https://huggingface.co/engkufizz/llama-2-7b-datacom-ggml)
 
 🔗 **Explore More Projects**  
-[![View All Projects](https://img.shields.io/badge/View%20All%20Projects-%E2%9E%A4-blue?style=for-the-badge&logo=google-chrome)](https://tengkulist.web.app/)  
+[![View All Projects](https://img.shields.io/badge/View%20All%20Projects-%E2%9E%A4-blue?style=for-the-badge&logo=google-chrome)]([https://tengkulist.web.app/](https://tengkulist.web.app/projects.html))  
 
 ## 📫 Get in Touch 
 
