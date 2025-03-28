@@ -21,8 +21,15 @@ Discover how I do my projects and save your time by learning from my materials!:
 - [CREATE a CUSTOM DATASET for SPECIFIC CASES](https://huggingface.co/datasets/engkufizz/router-switch-instruct)
 - [QUANTIZE the LLAMA to GGML](https://huggingface.co/engkufizz/llama-2-7b-datacom-ggml)
 
-🔗 **Explore More Projects**  
-[![View All Projects](https://img.shields.io/badge/View%20All%20Projects-%E2%9E%A4-blue?style=for-the-badge&logo=google-chrome)]([https://tengkulist.web.app/](https://tengkulist.web.app/projects.html))  
+### 🔗 Explore More Projects  
+
+<br>
+
+<p align="center">
+  <a href="https://tengkulist.web.app/projects.html" target="_blank">
+    <img src="https://img.shields.io/badge/Explore%20More-Click%20Here-blue?style=for-the-badge" alt="Explore More Projects">
+  </a>
+</p> 
 
 ## 📫 Get in Touch 
 
