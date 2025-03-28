@@ -20,21 +20,9 @@ Discover how I do my projects and save your time by learning from my materials!:
 - [FINE-TUNING LLAMA 2 WITH CUSTOM DATASET](https://huggingface.co/engkufizz/llama-2-7b-datacom)
 - [CREATE a CUSTOM DATASET for SPECIFIC CASES](https://huggingface.co/datasets/engkufizz/router-switch-instruct)
 - [QUANTIZE the LLAMA to GGML](https://huggingface.co/engkufizz/llama-2-7b-datacom-ggml)
-- [FACE RECOGNITION USING OPENCV](https://drive.google.com/drive/folders/13qMdeV1bwFWP0wtWcgjBs5_eQVjNmFYl?usp=drive_link)
-- [IOT - SMART HOME USING ESP8266](https://drive.google.com/drive/folders/15auD4OQF8sctjGF5E9IKxNXJ_FsWf36k?usp=drive_link)
-- [VOICE RECOGNITION USING PYTHON](https://drive.google.com/drive/folders/163F3VpWbp5SDnvobXndKWfXlF8YcAMsx?usp=drive_link)
-- [ROBOT CAR BY USING ARDUINO](https://drive.google.com/drive/folders/1U8RRoUlwzLiOIUEya3pqmosmITj01v14?usp=drive_link)
-- [SMART PICK-UP SYSTEM USING FINGERPRINT](https://drive.google.com/drive/folders/1eqTPki5rkYc30FXd_j5AkjmSWTimpxUL?usp=drive_link)
-- [SMART QUEUING SYSTEM USING TELEGRAM BOT](https://drive.google.com/drive/folders/13yd-iQzVmD2jt2uSqGJRCFo-1AU0OEcd?usp=drive_link)
-- [ANDROID APP DEVELOPMENT USING ANDROID STUDIO](https://drive.google.com/drive/folders/1oTcgvjhM6qmQjeaOBQLzeOUkvkQM0enK?usp=drive_link)
-- [CREATE A WEBSITE USING AWS CLOUD](https://drive.google.com/drive/folders/1aOQcGy_k5FLtlhFOgK9CocrAlYjYUS8o?usp=drive_link)
-- [Create a landing page using Firebase](https://drive.google.com/drive/folders/14OYKs0n65SRD3FQjamnLfKsuwKmEE3bD?usp=drive_link)
-- [RASPBERRY PI & MINI KEYBOARD CONTROLLER](https://drive.google.com/drive/folders/1tfIRv6TED6S5_xXM2nNGd1MJIfA-mgKP)
-- [PYTHON SOCKET SERVER USING a CLOUD](https://drive.google.com/drive/folders/1zaoq3BXJtVLyNuqo5-I7BGBV885NrMzq?usp=drive_link)
-- [LEARN SQL COMMANDS](https://drive.google.com/drive/folders/1sKK17FObu5wYu0drVlQRkjtQXFBuzRL8?usp=drive_link)
-- [EXCEL USING FORMULA, VLOOKUP AND PIVOT TABLE](https://drive.google.com/drive/folders/1-v1FvdDOe1LZGcBlBMs8CRF5CwqbN7pr)
-- [LEARN TO SET UP A SERVER (PART 1)](https://drive.google.com/drive/folders/10FS4L6GaVnto9EroNvsu9d5wZGEZV4SR?usp=drive_link)
-- [CYBER SECURITY MATERIALS](https://drive.google.com/drive/folders/1javrGyLZLAUuB1VmVLdVwmMLeRW83Rrf)
+
+🔗 **Explore More Projects**  
+[![View All Projects](https://img.shields.io/badge/View%20All%20Projects-%E2%9E%A4-blue?style=for-the-badge&logo=google-chrome)](https://tengkulist.web.app/)  
 
 ## 📫 Get in Touch 
 
