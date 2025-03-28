@@ -39,14 +39,15 @@ Discover how I do my projects and save your time by learning from my materials!:
 ## 📫 Get in Touch 
 
 <a href="https://twitter.com/engkufizz">
-  <img align="left" alt="Tengku's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Tengku's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="filter: invert(1);" />
 </a>
 <a href="https://discord.com/users/engkufizz">
-  <img align="left" alt="Tengku's Discord" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  <img align="left" alt="Tengku's Discord" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" style="filter: invert(1);" />
 </a>
 <a href="https://www.linkedin.com/in/engkufizz/">
-  <img align="left" alt="Tengku's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Tengku's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="filter: invert(1);" />
 </a>
+
 
 
 - Twitter: https://twitter.com/engkufizz
