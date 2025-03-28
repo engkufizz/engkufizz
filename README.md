@@ -25,11 +25,9 @@ Discover how I do my projects and save your time by learning from my materials!:
 
 <br>
 
-<p align="center">
-  <a href="https://tengkulist.web.app/projects.html" target="_blank">
-    <img src="https://img.shields.io/badge/Explore%20More-Click%20Here-blue?style=for-the-badge" alt="Explore More Projects">
-  </a>
-</p> 
+<a href="https://tengkulist.web.app/projects.html" target="_blank">
+  <img src="https://img.shields.io/badge/Explore%20More-Click%20Here-blue?style=for-the-badge" alt="Explore More Projects">
+</a>
 
 ## 📫 Get in Touch 
 
