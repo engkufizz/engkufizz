@@ -39,12 +39,13 @@ Discover how I do my projects and save your time by learning from my materials!:
 ## 📫 Get in Touch 
 
 <a href="https://twitter.com/engkufizz">
-  <img align="left" alt="Tengku's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Tengku's Twitter" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/X_logo_2023_%28white%29.png/900px-X_logo_2023_%28white%29.png?20230728230735" />
 </a>
 <a href="https://discord.com/users/engkufizz">
-  <img align="left" alt="Tengku's Discord" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  <img align="left" alt="Tengku's Discord" width="24px" src="https://img.icons8.com/ios7/600/FFFFFF/discord-logo.png" />
 </a>
 <a href="https://www.linkedin.com/in/engkufizz/">
-  <img align="left" alt="Tengku's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Tengku's LinkedIn" width="24px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-white-icon.png" />
 </a>
+
 
