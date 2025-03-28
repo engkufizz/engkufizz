@@ -23,8 +23,6 @@ Discover how I do my projects and save your time by learning from my materials!:
 
 ### 🔗 Explore More Projects  
 
-<br>
-
 <a href="https://tengkulist.web.app/projects.html" target="_blank">
   <img src="https://img.shields.io/badge/Explore%20More-Click%20Here-blue?style=for-the-badge" alt="Explore More Projects">
 </a>
