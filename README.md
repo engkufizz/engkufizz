@@ -31,7 +31,9 @@ Discover how I do my projects and save your time by learning from my materials !
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=engkufizz&count_private=true&theme=radical&langs_count=6" alt="Jas-Script" />
+<br />
+
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=engkufizz&count_private=true&theme=radical&exclude_repo=AutomateTools" alt="Jas-Script" />
 
 
 ## 📫 Get in Touch 
