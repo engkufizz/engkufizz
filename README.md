@@ -62,6 +62,14 @@ Discover how I do my projects and save your time by learning from my materials !
 
 <br /><br />
 
+## ☕ Sponsor
+
+If my work helps you, you can support me on Ko‑fi.
+
+<a href="https://ko-fi.com/engkufizz">
+  <img height="36" src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko‑fi">
+</a>
+
 ----
 Credit: [Jas-Script](https://github.com/Jas-Script)
 
