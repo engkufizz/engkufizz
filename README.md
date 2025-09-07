@@ -64,7 +64,7 @@ Discover how I do my projects and save your time by learning from my materials !
 
 ## ☕ Sponsor
 
-If my work helps you, you can support me on Ko‑fi.
+If this saved you time, say thanks on Ko‑fi ✨
 
 <a href="https://ko-fi.com/engkufizz">
   <img height="36" src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko‑fi">
