@@ -37,26 +37,18 @@ Discover how I do my projects and save your time by learning from my materials !
 
 ## 📫 Get in Touch 
 
-<a href="https://twitter.com/engkufizz">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/x/000000" />
-    <img align="left" alt="X (Twitter)" width="24" height="24" src="https://cdn.simpleicons.org/x/000000" />
-  </picture>
+<!-- Theme-aware icons using GitHub’s #gh-light-mode-only / #gh-dark-mode-only -->
+<a href="https://twitter.com/engkufizz" aria-label="X (Twitter)">
+  <img align="left" alt="X (Twitter)" width="24" height="24" src="https://api.iconify.design/simple-icons:x.svg?color=%23000#gh-light-mode-only" />
+  <img align="left" alt="X (Twitter)" width="24" height="24" src="https://api.iconify.design/simple-icons:x.svg?color=white#gh-dark-mode-only" />
 </a>
-<a href="https://discord.com/users/engkufizz">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/discord/ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/discord/000000" />
-    <img align="left" alt="Discord" width="24" height="24" src="https://cdn.simpleicons.org/discord/000000" />
-  </picture>
+<a href="https://discord.com/users/engkufizz" aria-label="Discord">
+  <img align="left" alt="Discord" width="24" height="24" src="https://api.iconify.design/simple-icons:discord.svg?color=%23000#gh-light-mode-only" />
+  <img align="left" alt="Discord" width="24" height="24" src="https://api.iconify.design/simple-icons:discord.svg?color=white#gh-dark-mode-only" />
 </a>
-<a href="https://www.linkedin.com/in/engkufizz/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linkedin/ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/linkedin/000000" />
-    <img align="left" alt="LinkedIn" width="24" height="24" src="https://cdn.simpleicons.org/linkedin/000000" />
-  </picture>
+<a href="https://www.linkedin.com/in/engkufizz/" aria-label="LinkedIn">
+  <img align="left" alt="LinkedIn" width="24" height="24" src="https://api.iconify.design/simple-icons:linkedin.svg?color=%23000#gh-light-mode-only" />
+  <img align="left" alt="LinkedIn" width="24" height="24" src="https://api.iconify.design/simple-icons:linkedin.svg?color=white#gh-dark-mode-only" />
 </a>
 
 <br /><br />
