@@ -38,16 +38,28 @@ Discover how I do my projects and save your time by learning from my materials !
 ## 📫 Get in Touch 
 
 <a href="https://twitter.com/engkufizz">
-  <img align="left" alt="Tengku's Twitter" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/X_logo_2023_%28white%29.png/900px-X_logo_2023_%28white%29.png?20230728230735" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/ffffff" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/x/000000" />
+    <img align="left" alt="X (Twitter)" width="24" height="24" src="https://cdn.simpleicons.org/x/000000" />
+  </picture>
 </a>
 <a href="https://discord.com/users/engkufizz">
-  <img align="left" alt="Tengku's Discord" width="24px" src="https://img.icons8.com/ios7/600/FFFFFF/discord-logo.png" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/discord/ffffff" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/discord/000000" />
+    <img align="left" alt="Discord" width="24" height="24" src="https://cdn.simpleicons.org/discord/000000" />
+  </picture>
 </a>
 <a href="https://www.linkedin.com/in/engkufizz/">
-  <img align="left" alt="Tengku's LinkedIn" width="24px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-white-icon.png" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linkedin/ffffff" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/linkedin/000000" />
+    <img align="left" alt="LinkedIn" width="24" height="24" src="https://cdn.simpleicons.org/linkedin/000000" />
+  </picture>
 </a>
 
-<br />
+<br /><br />
 
 ----
 Credit: [Jas-Script](https://github.com/Jas-Script)
